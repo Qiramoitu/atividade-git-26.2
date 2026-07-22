@@ -52,3 +52,12 @@ body {
     border-radius: 4px;
     font-size: 1rem;
 }
+
+.botao {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 0.75rem;
+    border-radius: 4px;
+    font-size: 1rem;
+}
